@@ -6,7 +6,7 @@ In their work, the authors address the issue of hallucinations in large language
 
 The goal of this project is to experiment with CRAG implementation, described in the blog "Corrective RAG (CRAG) Implementation With LangGraph" by Ryan Ong / Datacamp.
 
-If zou find this repositorz useful for zou, drop it a ⭐:)! 
+If you find this repository useful for you, drop it a ⭐:)! 
 
 ## References
 
